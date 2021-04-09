@@ -1,0 +1,61 @@
+Book ID,Description,Description German,Language,Unknown,Known
+01,Uncle Tom's Cabin by Harriet Beecher Stowe,Onkel Toms Hütte von Harriet Beecher Stowe,eng,7,2
+01,Uncle Tom's Cabin by Harriet Beecher Stowe,Onkel Toms Hütte von Harriet Beecher Stowe,ger,55,17
+01,Uncle Tom's Cabin by Harriet Beecher Stowe,Onkel Toms Hütte von Harriet Beecher Stowe,all,62,19
+02,A Tale of Two Cities by Charles Dickens,Eine Geschichte aus zwei Städten von Charles Dickens,eng,7,2
+02,A Tale of Two Cities by Charles Dickens,Eine Geschichte aus zwei Städten von Charles Dickens,ger,68,4
+02,A Tale of Two Cities by Charles Dickens,Eine Geschichte aus zwei Städten von Charles Dickens,all,75,6
+03,Adventures of Huckleberry Finn by Mark Twain,Die Abenteuer des Huckleberry Finn von Mark Twain,eng,6,3
+03,Adventures of Huckleberry Finn by Mark Twain,Die Abenteuer des Huckleberry Finn von Mark Twain,ger,37,35
+03,Adventures of Huckleberry Finn by Mark Twain,Die Abenteuer des Huckleberry Finn von Mark Twain,all,43,38
+04,Alice’s Adventures in Wonderland by Lewis Carroll,Alice im Wunderland von Lewis Carroll,eng,0,9
+04,Alice’s Adventures in Wonderland by Lewis Carroll,Alice im Wunderland von Lewis Carroll,ger,11,61
+04,Alice’s Adventures in Wonderland by Lewis Carroll,Alice im Wunderland von Lewis Carroll,all,11,70
+05,Dracula by Bram Stoker,Dracula von Bram Stoker,eng,3,6
+05,Dracula by Bram Stoker,Dracula von Bram Stoker,ger,34,38
+05,Dracula by Bram Stoker,Dracula von Bram Stoker,all,37,44
+06,Emma by Jane Austen,Emma von Jane Austen,ger,48,24
+06,Emma by Jane Austen,Emma von Jane Austen,all,53,28
+06,Emma by Jane Austen,Emma von Jane Austen,eng,5,4
+07,Frankenstein by Mary Shelley,Frankenstein; oder: Der moderne Prometheus von Mary Shelley,all,41,40
+07,Frankenstein by Mary Shelley,Frankenstein; oder: Der moderne Prometheus von Mary Shelley,eng,3,6
+07,Frankenstein by Mary Shelley,Frankenstein; oder: Der moderne Prometheus von Mary Shelley,ger,38,34
+08,Great Expectations by Charles Dickens,Große Erwartungen von Charles Dickens,all,67,14
+08,Great Expectations by Charles Dickens,Große Erwartungen von Charles Dickens,eng,7,2
+08,Great Expectations by Charles Dickens,Große Erwartungen von Charles Dickens,ger,60,12
+09,Metamorphosis by Franz Kafka,Die Verwandlung von Franz Kafka,ger,21,51
+09,Metamorphosis by Franz Kafka,Die Verwandlung von Franz Kafka,all,23,58
+09,Metamorphosis by Franz Kafka,Die Verwandlung von Franz Kafka,eng,2,7
+10,Pride and Prejudice by Jane Austen,Stolz und Vorurteil von Jane Austen,all,33,48
+10,Pride and Prejudice by Jane Austen,Stolz und Vorurteil von Jane Austen,ger,32,40
+10,Pride and Prejudice by Jane Austen,Stolz und Vorurteil von Jane Austen,eng,1,8
+11,The Adventures of Sherlock Holmes by Arthur C. Doyle,Die Abenteuer des Sherlock Holmes von Arthur C. Doyle,ger,29,43
+11,The Adventures of Sherlock Holmes by Arthur C. Doyle,Die Abenteuer des Sherlock Holmes von Arthur C. Doyle,all,31,50
+11,The Adventures of Sherlock Holmes by Arthur C. Doyle,Die Abenteuer des Sherlock Holmes von Arthur C. Doyle,eng,2,7
+12,The Adventures of Tom Sawyer by Mark Twain,Die Abenteuer des Tom Sawyer von Mark Twain,ger,46,26
+12,The Adventures of Tom Sawyer by Mark Twain,Die Abenteuer des Tom Sawyer von Mark Twain,all,50,31
+12,The Adventures of Tom Sawyer by Mark Twain,Die Abenteuer des Tom Sawyer von Mark Twain,eng,4,5
+13,The Count of Monte Cristo by Alexandre Dumas,Der Graf von Monte Christo von Alexandre Dumas,ger,54,18
+13,The Count of Monte Cristo by Alexandre Dumas,Der Graf von Monte Christo von Alexandre Dumas,eng,7,2
+13,The Count of Monte Cristo by Alexandre Dumas,Der Graf von Monte Christo von Alexandre Dumas,all,61,20
+14,The Picture of Dorian Gray by Oscar Wilde,Das Bildnis des Dorian Gray von Oscar Wilde,all,42,39
+14,The Picture of Dorian Gray by Oscar Wilde,Das Bildnis des Dorian Gray von Oscar Wilde,ger,39,33
+14,The Picture of Dorian Gray by Oscar Wilde,Das Bildnis des Dorian Gray von Oscar Wilde,eng,3,6
+15,Little Women by Louisa M. Alcott,Little Women von Louisa M. Alcott,all,59,22
+15,Little Women by Louisa M. Alcott,Little Women von Louisa M. Alcott,eng,5,4
+15,Little Women by Louisa M. Alcott,Little Women von Louisa M. Alcott,ger,54,18
+16,Heart of Darkness by Joseph Conrad,Herz der Finsternis von Joseph Conrad,all,65,16
+16,Heart of Darkness by Joseph Conrad,Herz der Finsternis von Joseph Conrad,ger,60,12
+16,Heart of Darkness by Joseph Conrad,Herz der Finsternis von Joseph Conrad,eng,5,4
+17,Moby Dick by Herman Melville,Moby-Dick; oder: Der Wal von Herman Melville,eng,5,4
+17,Moby Dick by Herman Melville,Moby-Dick; oder: Der Wal von Herman Melville,all,40,41
+17,Moby Dick by Herman Melville,Moby-Dick; oder: Der Wal von Herman Melville,ger,35,37
+18,War and Peace by Leo Tolstoy,Krieg und Frieden von Leo Tolstoy,all,60,21
+18,War and Peace by Leo Tolstoy,Krieg und Frieden von Leo Tolstoy,ger,53,19
+18,War and Peace by Leo Tolstoy,Krieg und Frieden von Leo Tolstoy,eng,7,2
+19,Wuthering Heights by Emily Brontë,Sturmhöhe von Emily Brontë,all,55,26
+19,Wuthering Heights by Emily Brontë,Sturmhöhe von Emily Brontë,eng,4,5
+19,Wuthering Heights by Emily Brontë,Sturmhöhe von Emily Brontë,ger,51,21
+20,Treasure Island by Robert L. Stevenson,Die Schatzinsel von Robert L. Stevenson,ger,44,28
+20,Treasure Island by Robert L. Stevenson,Die Schatzinsel von Robert L. Stevenson,eng,3,6
+20,Treasure Island by Robert L. Stevenson,Die Schatzinsel von Robert L. Stevenson,all,47,34

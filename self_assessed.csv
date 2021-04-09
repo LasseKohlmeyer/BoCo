@@ -1,0 +1,88 @@
+Book 1,Book 2,Book 3,Facet,Selection,Selected Answer Nr.,Answers,Title 1,Title 2,Title 3
+1,2,3,atmosphere,01==03,2,3,Uncle Tom's Cabin by Harriet Beecher Stowe,A Tale of Two Cities by Charles Dickens,Adventures of Huckleberry Finn by Mark Twain
+1,2,3,plot,unsure,-1,3,Uncle Tom's Cabin by Harriet Beecher Stowe,A Tale of Two Cities by Charles Dickens,Adventures of Huckleberry Finn by Mark Twain
+1,2,6,atmosphere,02==06,3,3,Uncle Tom's Cabin by Harriet Beecher Stowe,A Tale of Two Cities by Charles Dickens,Emma by Jane Austen
+1,2,6,content,02==06,3,3,Uncle Tom's Cabin by Harriet Beecher Stowe,A Tale of Two Cities by Charles Dickens,Emma by Jane Austen
+1,2,6,location,02==06,3,3,Uncle Tom's Cabin by Harriet Beecher Stowe,A Tale of Two Cities by Charles Dickens,Emma by Jane Austen
+1,2,6,plot,02==06,3,3,Uncle Tom's Cabin by Harriet Beecher Stowe,A Tale of Two Cities by Charles Dickens,Emma by Jane Austen
+1,2,7,atmosphere,01==02,1,3,Uncle Tom's Cabin by Harriet Beecher Stowe,A Tale of Two Cities by Charles Dickens,Frankenstein by Mary Shelley
+1,2,7,plot,unsure,-1,3,Uncle Tom's Cabin by Harriet Beecher Stowe,A Tale of Two Cities by Charles Dickens,Frankenstein by Mary Shelley
+1,2,9,total,01==02,1,3,Uncle Tom's Cabin by Harriet Beecher Stowe,A Tale of Two Cities by Charles Dickens,Metamorphosis by Franz Kafka
+1,3,20,plot,unsure,-1,4,Uncle Tom's Cabin by Harriet Beecher Stowe,Adventures of Huckleberry Finn by Mark Twain,Treasure Island by Robert L. Stevenson
+1,3,20,time,01==03,1,3,Uncle Tom's Cabin by Harriet Beecher Stowe,Adventures of Huckleberry Finn by Mark Twain,Treasure Island by Robert L. Stevenson
+1,6,15,atmosphere,6==15,3,3,Uncle Tom's Cabin by Harriet Beecher Stowe,Emma by Jane Austen,Little Women by Louisa M. Alcott
+1,6,20,location,unsure,-1,3,Uncle Tom's Cabin by Harriet Beecher Stowe,Emma by Jane Austen,Treasure Island by Robert L. Stevenson
+1,6,20,plot,unsure,-1,3,Uncle Tom's Cabin by Harriet Beecher Stowe,Emma by Jane Austen,Treasure Island by Robert L. Stevenson
+3,10,17,atmosphere,03==17,2,3,Adventures of Huckleberry Finn by Mark Twain,Pride and Prejudice by Jane Austen,Moby Dick by Herman Melville
+3,10,17,content,unsure,-1,3,Adventures of Huckleberry Finn by Mark Twain,Pride and Prejudice by Jane Austen,Moby Dick by Herman Melville
+3,10,17,location,03==17,2,3,Adventures of Huckleberry Finn by Mark Twain,Pride and Prejudice by Jane Austen,Moby Dick by Herman Melville
+3,10,17,plot,unsure,-1,3,Adventures of Huckleberry Finn by Mark Twain,Pride and Prejudice by Jane Austen,Moby Dick by Herman Melville
+3,10,17,time,03==17,2,3,Adventures of Huckleberry Finn by Mark Twain,Pride and Prejudice by Jane Austen,Moby Dick by Herman Melville
+3,10,17,total,03==17,2,3,Adventures of Huckleberry Finn by Mark Twain,Pride and Prejudice by Jane Austen,Moby Dick by Herman Melville
+3,12,16,plot,03==12,1,3,Adventures of Huckleberry Finn by Mark Twain,The Adventures of Tom Sawyer by Mark Twain,Heart of Darkness by Joseph Conrad
+3,16,17,total,16==17,3,3,Adventures of Huckleberry Finn by Mark Twain,Heart of Darkness by Joseph Conrad,Moby Dick by Herman Melville
+4,5,6,atmosphere,04==05,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Emma by Jane Austen
+4,5,6,content,unsure,-1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Emma by Jane Austen
+4,5,6,location,04==06,2,3,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Emma by Jane Austen
+4,5,6,plot,04==06,2,3,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Emma by Jane Austen
+4,5,6,time,04==05,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Emma by Jane Austen
+4,5,6,total,04==05,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Emma by Jane Austen
+4,5,9,location,05==09,3,13,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Metamorphosis by Franz Kafka
+4,5,9,plot,05==09,3,13,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Metamorphosis by Franz Kafka
+4,5,9,time,04==05,1,7,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Metamorphosis by Franz Kafka
+4,5,9,total,05==09,3,14,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Metamorphosis by Franz Kafka
+4,5,11,atmosphere,05==11,3,8,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,The Adventures of Sherlock Holmes by Arthur C. Doyle
+4,5,11,location,04==11,2,7,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,The Adventures of Sherlock Holmes by Arthur C. Doyle
+4,5,11,plot,unsure,-1,7,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,The Adventures of Sherlock Holmes by Arthur C. Doyle
+4,5,11,total,05==11,3,9,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,The Adventures of Sherlock Holmes by Arthur C. Doyle
+4,5,14,plot,05==14,3,4,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,The Picture of Dorian Gray by Oscar Wilde
+4,5,17,total,05==17,3,7,Alice’s Adventures in Wonderland by Lewis Carroll,Dracula by Bram Stoker,Moby Dick by Herman Melville
+4,6,9,time,04==06,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,Metamorphosis by Franz Kafka
+4,6,11,atmosphere,04==11,2,5,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,The Adventures of Sherlock Holmes by Arthur C. Doyle
+4,6,11,time,04==06,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,The Adventures of Sherlock Holmes by Arthur C. Doyle
+4,6,11,total,04==06,1,6,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,The Adventures of Sherlock Holmes by Arthur C. Doyle
+4,6,14,atmosphere,04==06,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,The Picture of Dorian Gray by Oscar Wilde
+4,6,14,content,04==06,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,The Picture of Dorian Gray by Oscar Wilde
+4,6,14,location,04==06,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,The Picture of Dorian Gray by Oscar Wilde
+4,6,14,plot,04==06,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,The Picture of Dorian Gray by Oscar Wilde
+4,6,14,total,04==06,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,The Picture of Dorian Gray by Oscar Wilde
+4,6,15,time,4==15,2,3,Alice’s Adventures in Wonderland by Lewis Carroll,Emma by Jane Austen,Little Women by Louisa M. Alcott
+4,7,9,location,07==09,3,3,Alice’s Adventures in Wonderland by Lewis Carroll,Frankenstein by Mary Shelley,Metamorphosis by Franz Kafka
+4,7,9,time,07==09,3,3,Alice’s Adventures in Wonderland by Lewis Carroll,Frankenstein by Mary Shelley,Metamorphosis by Franz Kafka
+4,7,11,content,07==11,3,4,Alice’s Adventures in Wonderland by Lewis Carroll,Frankenstein by Mary Shelley,The Adventures of Sherlock Holmes by Arthur C. Doyle
+4,7,17,atmosphere,07==17,3,5,Alice’s Adventures in Wonderland by Lewis Carroll,Frankenstein by Mary Shelley,Moby Dick by Herman Melville
+4,7,17,time,07==17,3,4,Alice’s Adventures in Wonderland by Lewis Carroll,Frankenstein by Mary Shelley,Moby Dick by Herman Melville
+4,9,11,plot,04==09,1,9,Alice’s Adventures in Wonderland by Lewis Carroll,Metamorphosis by Franz Kafka,The Adventures of Sherlock Holmes by Arthur C. Doyle
+4,9,14,content,04==09,1,7,Alice’s Adventures in Wonderland by Lewis Carroll,Metamorphosis by Franz Kafka,The Picture of Dorian Gray by Oscar Wilde
+4,9,14,location,09==14,3,7,Alice’s Adventures in Wonderland by Lewis Carroll,Metamorphosis by Franz Kafka,The Picture of Dorian Gray by Oscar Wilde
+4,9,15,content,04==15,2,3,Alice’s Adventures in Wonderland by Lewis Carroll,Metamorphosis by Franz Kafka,Little Women by Louisa M. Alcott
+4,9,15,location,unsure,-1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Metamorphosis by Franz Kafka,Little Women by Louisa M. Alcott
+4,9,15,plot,04==09,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Metamorphosis by Franz Kafka,Little Women by Louisa M. Alcott
+4,9,17,plot,09==17,3,4,Alice’s Adventures in Wonderland by Lewis Carroll,Metamorphosis by Franz Kafka,Moby Dick by Herman Melville
+4,9,17,time,04=17,2,3,Alice’s Adventures in Wonderland by Lewis Carroll,Metamorphosis by Franz Kafka,Moby Dick by Herman Melville
+4,9,17,total,09==17,3,6,Alice’s Adventures in Wonderland by Lewis Carroll,Metamorphosis by Franz Kafka,Moby Dick by Herman Melville
+4,11,14,atmosphere,11==14,3,3,Alice’s Adventures in Wonderland by Lewis Carroll,The Adventures of Sherlock Holmes by Arthur C. Doyle,The Picture of Dorian Gray by Oscar Wilde
+4,11,14,total,11==14,3,3,Alice’s Adventures in Wonderland by Lewis Carroll,The Adventures of Sherlock Holmes by Arthur C. Doyle,The Picture of Dorian Gray by Oscar Wilde
+4,11,15,atmosphere,04==15,2,3,Alice’s Adventures in Wonderland by Lewis Carroll,The Adventures of Sherlock Holmes by Arthur C. Doyle,Little Women by Louisa M. Alcott
+4,11,17,atmosphere,11==17,3,5,Alice’s Adventures in Wonderland by Lewis Carroll,The Adventures of Sherlock Holmes by Arthur C. Doyle,Moby Dick by Herman Melville
+4,11,17,plot,unsure,-1,4,Alice’s Adventures in Wonderland by Lewis Carroll,The Adventures of Sherlock Holmes by Arthur C. Doyle,Moby Dick by Herman Melville
+4,14,15,content,04==15,2,3,Alice’s Adventures in Wonderland by Lewis Carroll,The Picture of Dorian Gray by Oscar Wilde,Little Women by Louisa M. Alcott
+4,14,15,location,04==14,1,3,Alice’s Adventures in Wonderland by Lewis Carroll,The Picture of Dorian Gray by Oscar Wilde,Little Women by Louisa M. Alcott
+4,14,15,time,04==15,2,3,Alice’s Adventures in Wonderland by Lewis Carroll,The Picture of Dorian Gray by Oscar Wilde,Little Women by Louisa M. Alcott
+4,15,17,content,unsure,-1,3,Alice’s Adventures in Wonderland by Lewis Carroll,Little Women by Louisa M. Alcott,Moby Dick by Herman Melville
+5,7,9,plot,unsure,-1,4,Dracula by Bram Stoker,Frankenstein by Mary Shelley,Metamorphosis by Franz Kafka
+5,7,9,time,05==07,1,3,Dracula by Bram Stoker,Frankenstein by Mary Shelley,Metamorphosis by Franz Kafka
+5,9,11,atmosphere,05==11,2,3,Dracula by Bram Stoker,Metamorphosis by Franz Kafka,The Adventures of Sherlock Holmes by Arthur C. Doyle
+5,9,12,atmosphere,05==09,1,3,Dracula by Bram Stoker,Metamorphosis by Franz Kafka,The Adventures of Tom Sawyer by Mark Twain
+5,9,12,total,05==09,1,3,Dracula by Bram Stoker,Metamorphosis by Franz Kafka,The Adventures of Tom Sawyer by Mark Twain
+5,14,16,atmosphere,05==14,1,3,Dracula by Bram Stoker,The Picture of Dorian Gray by Oscar Wilde,Heart of Darkness by Joseph Conrad
+5,14,16,total,05==14,1,3,Dracula by Bram Stoker,The Picture of Dorian Gray by Oscar Wilde,Heart of Darkness by Joseph Conrad
+6,10,15,atmosphere,06==10,1,3,Emma by Jane Austen,Pride and Prejudice by Jane Austen,Little Women by Louisa M. Alcott
+6,10,19,content,06==10,1,3,Emma by Jane Austen,Pride and Prejudice by Jane Austen,Wuthering Heights by Emily Brontë
+6,10,19,plot,10==19,3,3,Emma by Jane Austen,Pride and Prejudice by Jane Austen,Wuthering Heights by Emily Brontë
+6,10,19,total,06==10,1,5,Emma by Jane Austen,Pride and Prejudice by Jane Austen,Wuthering Heights by Emily Brontë
+7,9,14,atmosphere,07==14,2,3,Frankenstein by Mary Shelley,Metamorphosis by Franz Kafka,The Picture of Dorian Gray by Oscar Wilde
+7,9,14,plot,unsure,-1,3,Frankenstein by Mary Shelley,Metamorphosis by Franz Kafka,The Picture of Dorian Gray by Oscar Wilde
+7,9,14,total,unsure,-1,3,Frankenstein by Mary Shelley,Metamorphosis by Franz Kafka,The Picture of Dorian Gray by Oscar Wilde
+10,14,19,atmosphere,10==19,2,3,Pride and Prejudice by Jane Austen,The Picture of Dorian Gray by Oscar Wilde,Wuthering Heights by Emily Brontë
+11,12,20,location,unsure,-1,3,The Adventures of Sherlock Holmes by Arthur C. Doyle,The Adventures of Tom Sawyer by Mark Twain,Treasure Island by Robert L. Stevenson
