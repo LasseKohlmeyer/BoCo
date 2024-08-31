@@ -6,4 +6,4 @@
 * Self assessed contains for combination with a small agreement self assessed values, which can be used as tie breakers
 * Human assessed complete contains the decisions from both, human assessed and self assessed
 
-To use the data sets the files book familarity and human assessed complete are sufficient.
+To use the datasets the files 'book familarity' and 'human assessed complete' are sufficient.
